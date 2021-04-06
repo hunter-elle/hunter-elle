@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hunter-elle
-- 👀 I’m interested in photography, data hoarding (although I do not have enough memory, literally and physically). Coding always interests me but I've seen it as taxing. 
-- 🌱 I’m currently learning in uni, completely unrelated to coding. 
+- 👀 I’m interested in photography, data hoarding (although I do not have enough memory, literally and physically). Coding always interests me but I've seen it as taxing. Data security and web security also interests me! 
+- 🌱 I’m currently learning in uni, my course is completely unrelated to coding. 
 - 📫 How to reach me: message me here, or if you know me on discord, then go. I doubt you'll find something interesting. 
 
 <!---
